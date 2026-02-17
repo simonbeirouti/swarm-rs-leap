@@ -12,7 +12,7 @@
 [package]
 edition = "2021"
 name = "swift-rs-leap"
-version = "1.0.8-leap.0"
+version = "1.0.9"
 authors = ["The swift-rs contributors"]
 build = "src-rs/test-build.rs"
 exclude = [
